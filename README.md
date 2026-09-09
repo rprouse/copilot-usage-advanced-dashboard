@@ -1,3 +1,17 @@
+> [!IMPORTANT]
+> ## ⚠️ This project is no longer maintained, please move to [OctoFinance](https://github.com/satomic/OctoFinance)
+>
+> `copilot-usage-advanced-dashboard` was built for the **code-completion era** of GitHub Copilot: static dashboards over completion counts, acceptance rates and per-editor breakdowns. That framing no longer reflects how Copilot is actually used. In the **agentic coding era**, the questions that matter are about agent sessions, AI credit (UBB) consumption, budgets, cost centers and seat waste, none of which this project was designed to answer.
+>
+> Its successor is **[OctoFinance](https://github.com/satomic/OctoFinance)**: an AI-powered GitHub Copilot **FinOps platform**. Instead of clicking through fixed charts, you just ask *"Which users haven't touched Copilot in 30 days, and how much are we wasting?"* and an AI agent calls 40+ purpose-built tools against the live GitHub APIs to analyze usage, attribute AI-credit spend, calculate ROI, manage UBB budgets and cost centers, and propose optimizations, with a human-in-the-loop approval step before anything destructive happens. It also ships a full analytics dashboard, multi-org / multi-enterprise auto-discovery, Enterprise Teams analytics and audit logging.
+>
+> This repository stays online as an archive: issues and PRs will no longer be handled, and no further updates are planned. Thanks to everyone who used and contributed to it, see you over at **[OctoFinance](https://github.com/satomic/OctoFinance)**. 🐙💰
+> ![](https://github.com/satomic/OctoFinance/blob/main/images/chat2.png)
+> 
+> ![](https://github.com/satomic/OctoFinance/blob/main/images/metrics.png)
+
+---
+
 # Copilot Usage Advanced Dashboard Tutorial
 
 > ⚠️**Disclaimer**: This project is open sourced to solve problems that are critical to some users, and the functions provided may not be natively provided by GitHub Copilot. Therefore the contents,  opinions and views expressed in this project are solely mine do not necessarly refect the views of my employer, These are my personal notes based on myunderstanding of the code and trial deployments to GitHub Copilot. If anything is wrong with this article, please let me know through the [issues](https://github.com/satomic/copilot-usage-advanced-dashboard/issues/new). l appreciate your help in correcting my understanding.
